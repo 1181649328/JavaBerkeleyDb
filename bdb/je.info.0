@@ -1,0 +1,6 @@
+2020-07-08 14:51:35.409 UTC 警告 [bdb] Error accessing statistics capture file je.stat.csv IO Exception: Error occured accessing statistic log file FileNotFoundException D:\ProjectInFive\javaBerkeleyDb\bdb\je.stat.csv
+2020-07-08 14:51:44.475 UTC 警告 [bdb] Error accessing statistics capture file je.stat.csv IO Exception: Error occured accessing statistic log file FileNotFoundException D:\ProjectInFive\javaBerkeleyDb\bdb\je.stat.csv
+2020-07-08 14:54:59.213 UTC 警告 [bdb] Error accessing statistics capture file je.stat.csv IO Exception: Error occured accessing statistic log file FileNotFoundException D:\ProjectInFive\javaBerkeleyDb\bdb\je.stat.csv
+2020-07-08 14:55:11.884 UTC 警告 [bdb] Error accessing statistics capture file je.stat.csv IO Exception: Error occured accessing statistic log file FileNotFoundException D:\ProjectInFive\javaBerkeleyDb\bdb\je.stat.csv
+2020-07-08 14:56:27.906 UTC 警告 [bdb] Error accessing statistics capture file je.stat.csv IO Exception: Error occured accessing statistic log file FileNotFoundException D:\ProjectInFive\javaBerkeleyDb\bdb\je.stat.csv
+2020-07-08 14:57:20.081 UTC 警告 [bdb] Error accessing statistics capture file je.stat.csv IO Exception: Error occured accessing statistic log file FileNotFoundException D:\ProjectInFive\javaBerkeleyDb\bdb\je.stat.csv
